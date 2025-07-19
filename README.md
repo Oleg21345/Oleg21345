@@ -4,9 +4,8 @@
 </h1>
 
 
-<p align="center">
-  <img src="Oleg21345/assets/Gifka.gif" width="600" alt="Programming pixel gif with cat" />
-</p>
+![Header](https://github.com/Oleg21345/Oleg21345/blob/master/assets/Gifka.gif)
+
 
 
 
