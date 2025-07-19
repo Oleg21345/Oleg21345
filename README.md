@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Thanks+for+visiting+my+profile!+⭐" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting+my+profile!+⭐" alt="Thanks" />
 </p>
 
 
