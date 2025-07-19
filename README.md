@@ -4,9 +4,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting+my+profile!+⭐" alt="Thanks" />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif" width="600" alt="Pixel art IT office" />
 </p>
-
 
 
 
@@ -63,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=FF6F61&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+⭐" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Thanks+for+visiting+my+profile!+⭐" alt="Thanks" />
 </p>
 
 
