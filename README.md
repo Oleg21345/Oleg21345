@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Turning+data+into+business+insights+📊" alt="Data Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Turning+data+into+business+insights+%F0%9F%93%8A" alt="Data Analyst" />
 </p>
 
 
